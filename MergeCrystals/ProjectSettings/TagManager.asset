@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameManager
+  - VFXManager
+  - AudioManager
+  - Enemy
+  - Slot
+  - OrbDestroyer
+  - UIManager
+  - LightningHit
+  - PostProcess
+  - LowerBoundry
+  - CrystalHolder
+  - Crystal
+  - CrystalHarvester
+  - ProjectileStorage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Environment
+  - Slot
+  - VFX
+  - PostProcess
+  - Air
+  - Enemies
+  - Crystals
+  - PurchasableSlot
+  - LowerSlotBoundry
+  - UpperSlotBoundry
+  - RightSlotBoundry
+  - LeftSlotBoundry
+  - ShopCrystals
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 712217593
+    locked: 0
+  - name: Environment
+    uniqueID: 2769626953
+    locked: 0
+  - name: Grid
+    uniqueID: 949490527
+    locked: 0
+  - name: VFX
+    uniqueID: 535837321
+    locked: 0
+  - name: UI
+    uniqueID: 2985832875
+    locked: 0

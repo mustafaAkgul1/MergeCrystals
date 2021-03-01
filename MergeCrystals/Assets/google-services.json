@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "70787869781",
+    "firebase_url": "https://merge-crystals-855ca.firebaseio.com",
+    "project_id": "merge-crystals-855ca",
+    "storage_bucket": "merge-crystals-855ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70787869781:android:2ebb4640a1087be9d278dc",
+        "android_client_info": {
+          "package_name": "com.GulliversGames.MergeCrystals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70787869781-g362eo62c5vgm42roor1ik6osjsd473t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGtsaOTemrMlxAd2XqxDZTRcDyfP3Zdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70787869781-g362eo62c5vgm42roor1ik6osjsd473t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,6 +1,6 @@
 # MergeCrystals
 Gullivers Games firmasında 1,5 ay süren stajımın final projesi olarak geliştirildi.
-Büyük çoğunluğunu tek yaptığım projeye sonrada ekip arkadaşları katılarak, düşman sahnesi ile ilgili çalışmalar yaptılar.
+Büyük çoğunluğunu tek yaptığım projeye sonrada ekip arkadaşlarım katılarak, düşman sahnesi ile ilgili çalışmalar yaptılar.
 
 Projenin final durumu : 
 

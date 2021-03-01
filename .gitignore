@@ -2,16 +2,20 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+# for MAC
+MergeCrystals/**/StreamingAssets/build_info.txt
+MergeCrystals/**/assetDatabase3
+MergeCrystals/**/.DS_Store
+MergeCrystals/Temp/
+MergeCrystals/**/CurrentLayout.dwlt
+MergeCrystals/Assets/StreamingAssets/build_info.txt
+MergeCrystals/Library/
+MergeCrystals/obj/
+MergeCrystals/Logs/
+
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
-!/[Aa]ssets/**/*.meta
+!/Assets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -57,4 +61,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
